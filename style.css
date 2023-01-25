@@ -10,3 +10,27 @@
     background-size: 7%;
     
 }
+p{
+    color: gray;
+}
+
+.slider{
+    color: yellow;
+}
+
+.seeAll a{
+    color: orangered;
+}
+.phone{
+    border: none;
+    /* box-shadow: 10px 10px 30px grey; */
+    
+}
+.card-footer{
+    border-top: none;
+    background-color: white;
+    
+}
+/* .phone img{
+    height: 200px;
+} */
