@@ -34,3 +34,18 @@ p{
 /* .phone img{
     height: 200px;
 } */
+
+.laptop{
+    margin-bottom: 100px;
+}
+hr{
+    border-top: 4px solid orangered;
+    background-color: orangered;
+    width: 164px;
+    visibility: visible;
+    margin-left: 13px;
+}
+.img1 img{
+    height: 120px;
+    width: 120px;
+}
